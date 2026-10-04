@@ -1,6 +1,6 @@
 {
   "build_from": {
-    "aarch64": "lscr.io/linuxserver/emby:arm64v8-latest",
-    "amd64": "lscr.io/linuxserver/emby:amd64-latest"
+    "aarch64": "get.starmedia.workers.dev/emby-linux-io:latest",
+    "amd64": "get.starmedia.workers.dev/emby-linux-io:latest"
   }
 }
