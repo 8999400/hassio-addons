@@ -1,6 +1,5 @@
 {
   "build_from": {
-    "aarch64": "get.starmedia.workers.dev/emby-linux-io:latest",
-    "amd64": "get.starmedia.workers.dev/emby-linux-io:latest"
+    "amd64": "debian:bookworm-slim"
   }
 }
