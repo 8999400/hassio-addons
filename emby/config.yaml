@@ -1,12 +1,9 @@
-name: "Emby Server (pilulya)"
-slug: "embypilulya"
-version: "4.10.1.0"
-description: "A free Software Media System that puts you in control of managing and streaming your media"
+name: "Emby Custom Server"
+slug: "emby_custom_8999400"
+version: "4.11.0-custom"
+description: "A free Software Media System built from custom DEB"
 arch:
-  - aarch64
   - amd64
-image: "get.starmedia.workers.dev/emby-linux-io"
-version: "latest"
 host_network: true
 ingress: true
 ingress_port: 0
