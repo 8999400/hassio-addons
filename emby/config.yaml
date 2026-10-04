@@ -1,5 +1,5 @@
-name: "Emby Server (Custom)"
-slug: "emby"
+name: "Emby Server (pilulya)"
+slug: "embypilulya"
 version: "4.10.1.0"
 description: "A free Software Media System that puts you in control of managing and streaming your media"
 arch:
